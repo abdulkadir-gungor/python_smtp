@@ -41,15 +41,23 @@ Screenshots of the Code in Operation
 
 [1]
 
-![n4](https://user-images.githubusercontent.com/71177413/114061703-649a7c00-989f-11eb-83cc-8951f05609bf.JPG)
+![z1](https://user-images.githubusercontent.com/71177413/114062285-0621cd80-98a0-11eb-8d28-b7c3158716c5.JPG)
+
 
 
 [2]
 
-![n5](https://user-images.githubusercontent.com/71177413/114061734-6cf2b700-989f-11eb-8b28-6d0a42cf59fb.JPG)
+![z2](https://user-images.githubusercontent.com/71177413/114062335-133ebc80-98a0-11eb-98f7-5c7be8a77441.JPG)
+
 
 
 [3]
+
+![n5](https://user-images.githubusercontent.com/71177413/114061734-6cf2b700-989f-11eb-8b28-6d0a42cf59fb.JPG)
+
+
+
+[4]
 
 ![n6](https://user-images.githubusercontent.com/71177413/114061748-72e89800-989f-11eb-984e-f8a8b930ffff.JPG)
 
